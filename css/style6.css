@@ -2,7 +2,7 @@ body {
     font-family: Arial, sans-serif;
     margin: 0;
     padding: 0;
-    background-color: lightgrey;
+    background-color: #619e7d;
 }
 ul{
     list-style: none;
@@ -24,7 +24,7 @@ ul{
 .header .navbar a{
     text-decoration: none;
     font-size: larger;
-    color: rgb(8, 8, 8);
+    color: white;
     margin: left 20px;
 }
 .navbar a:hover{
@@ -45,7 +45,7 @@ ul{
 h1 {
     text-align: center;
     margin-top: 50px;
-    color: #333;
+    color: white;
     border-radius: 100px;
 }
 
