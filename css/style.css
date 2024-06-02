@@ -15,7 +15,7 @@ header{
 }
 
 body{
-    background-color:#ddd ;
+    background-color:#619e7d;
     font-family: 'League Gothic', sans-serif;
 }
 ul{
@@ -95,10 +95,10 @@ ul{
     height: 350px;
 }
 .container{
-    background-color: white;
+    background-color: rgb(219, 181, 224);
     margin: 100px;
-    box-shadow: 10px 10px 20px 10px darkgray;
-    border: 1px solid white;
+    box-shadow: 10px 10px 20px 10px rgb(87, 86, 86);
+    border: 1px solid rgba(17, 17, 17, 0.87);
 }
 .container p{
     margin: 5px 50px 50px 430px;
